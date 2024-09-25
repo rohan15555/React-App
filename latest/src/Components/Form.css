@@ -1,0 +1,18 @@
+
+.nav1  li{
+    display: inline-block; 
+       
+}
+.signin{
+    border: 1px solid black;
+    width: 200px;
+    background-color: blue;
+    align-items: center;
+    margin-left: 550px;
+    margin-right: 250px;
+    margin-top: 250px;
+    
+}
+
+
+

@@ -1,0 +1,11 @@
+
+.head{
+    color: red;
+    background-color: aqua;
+
+}
+.box{
+    height: 300px;
+    width: 500px;
+    background-color: aqua;
+}
